@@ -1,0 +1,22 @@
+{
+  "node": {
+    "ba031291490bf63942655c49877f104d891a5e07": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CVAHAG%5C%5CDesktop%5C%5Ccrud-next%5C%5Ccrud%5C%5Csrc%5C%5Capp%5C%5C_lib%5C%5Cactions.ts%22%2C%5B%22handleSignUp%22%2C%22%24%24RSC_SERVER_ACTION_0%22%5D%5D%5D&encryptionKey=nIZvB1G6%2FCgbZVZvwyA4DfVDW4pozF6ivOhNP2j5bpE%3D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "c56934d83ca055796cd97cf67af3667ec96bebf8": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CVAHAG%5C%5CDesktop%5C%5Ccrud-next%5C%5Ccrud%5C%5Csrc%5C%5Capp%5C%5C_lib%5C%5Cactions.ts%22%2C%5B%22handleSignUp%22%2C%22%24%24RSC_SERVER_ACTION_0%22%5D%5D%5D&encryptionKey=nIZvB1G6%2FCgbZVZvwyA4DfVDW4pozF6ivOhNP2j5bpE%3D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "nIZvB1G6/CgbZVZvwyA4DfVDW4pozF6ivOhNP2j5bpE="
+}
